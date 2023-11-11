@@ -1,1 +1,1 @@
-"# ApplicationAnalyseResume-CV-withNLP"  
+The objective of this project is to create a CV analysis application using NLP in Python, incorporating the following libraries and tools: pdfminer3, pyresparser, streamlit, pandas, pafy, plotly, pymysql, streamlit-tags, Pillow, youtube-dl, nltk, pdfminer3, spacy.
